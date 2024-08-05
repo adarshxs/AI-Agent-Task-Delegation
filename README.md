@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The Agent Task Delegation System represents a paradigm shift in artificial intelligence problem-solving. This innovative framework addresses the limitations of single-agent AI systems by implementing a multi-agent ecosystem powered by decentralized infrastructure. The system efficiently offloads actionable tasks to specialized agentic services within the network, enabling the handling of complex, multi-faceted problems with unprecedented efficiency and scalability.
+The Agent Task Delegation System represents a paradigm shift in artificial intelligence problem-solving. This innovative framework addresses the limitations of single-agent AI systems by implementing a multi-agent ecosystem powered by decentralized infrastructure.
+
+We at [Capx AI](https://huggingface.co/Capx) are researching on systems that efficiently offloads actionable tasks to specialized agentic services within the network, enabling the handling of complex, multi-faceted problems with unprecedented efficiency and scalability.
 
 ## System Architecture
 ![architecture](https://cdn-uploads.huggingface.co/production/uploads/644bf6ef778ecbfb977e8e84/M5O0zNIAhON2UjDFS0f1k.png)
@@ -166,4 +168,4 @@ The Agent Task Delegation System represents a significant advancement in AI prob
 
 ---
 
-*Acknowledgments: This project draws inspiration from various multi-agent systems and distributed computing paradigms, including the llama-agents framework. We extend our gratitude to the broader AI research community for their continuous innovations in this field.*
+*Acknowledgments: This project draws inspiration from various multi-agent systems and distributed computing paradigms, including the llama-agents by [Llama Index](https://www.llamaindex.ai/) framework. We extend our gratitude to the broader AI research community for their continuous innovations in this field.*
