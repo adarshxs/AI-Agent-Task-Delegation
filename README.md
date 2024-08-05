@@ -1,4 +1,4 @@
-# Agent Task Delegation System
+# Decentralized AI Agent Task Delegation System
 
 ## Introduction
 
