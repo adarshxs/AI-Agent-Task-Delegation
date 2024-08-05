@@ -17,6 +17,8 @@ Traditional single-agent AI systems face several limitations when dealing with c
 - **Memory Constraints**: Difficulty in juggling different contexts for various tasks within a single agent.
 - **Task Complexity**: Single agents often struggle with multi-step tasks requiring diverse skills.
 
+
+## Components of a Task Delegation System
 ### Control Plane
 
 The Control Plane acts as the central orchestrator, managing task allocation and system state.
